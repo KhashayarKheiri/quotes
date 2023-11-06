@@ -1,0 +1,10 @@
+In this JSON format, each quote is represented as an object with the following properties:
+
+id: Unique identifier for the quote.
+quote: The text of the quote.
+author: The author of the quote (Jordan Peterson in this case).
+authorSlug: A slug or simplified version of the author's name.
+tags: An array of tags associated with the quote.
+length: The length of the quote text in characters.
+book: If the quote is from a specific book, the book title.
+bookSlug: A slug or simplified version of the book title.
