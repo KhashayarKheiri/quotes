@@ -1,1 +1,52 @@
-
+[
+  {
+    "id": 1,
+    "quote": "Set your house in perfect order before you criticize the world.",
+    "author": "Jordan Peterson",
+    "authorSlug": "jordan-peterson",
+    "tags": [],
+    "length": 57,
+    "book": "",
+    "bookSlug": ""
+  },
+  {
+    "id": 3,
+    "quote": "You're going to pay a price for every bloody thing you do and everything you don't do. You don't get to choose to not pay a price. You get to choose which poison you're going to take. That's it.",
+    "author": "Jordan Peterson",
+    "authorSlug": "jordan-peterson",
+    "tags": [],
+    "length": 129,
+    "book": "",
+    "bookSlug": ""
+  },
+  {
+    "id": 4,
+    "quote": "Compare yourself to who you were yesterday, not to who someone else is today.",
+    "author": "Jordan Peterson",
+    "authorSlug": "jordan-peterson",
+    "tags": [],
+    "length": 77,
+    "book": "",
+    "bookSlug": ""
+  },
+  {
+    "id": 5,
+    "quote": "The purpose of life is finding the largest burden that you can bear and bearing it.",
+    "author": "Jordan Peterson",
+    "authorSlug": "jordan-peterson",
+    "tags": [],
+    "length": 78,
+    "book": "",
+    "bookSlug": ""
+  },
+  {
+    "id": 10,
+    "quote": "The successful among us delay gratification. The successful among us bargain with the future.",
+    "author": "Jordan Peterson",
+    "authorSlug": "jordan-peterson",
+    "tags": [],
+    "length": 89,
+    "book": "",
+    "bookSlug": ""
+  }
+]
